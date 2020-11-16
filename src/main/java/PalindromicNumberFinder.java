@@ -27,7 +27,7 @@ public class PalindromicNumberFinder {
           }
           
           }
-          (nextPalindrome-ogNum);
+          
           return nextPalindrome-ogNum;
         
         
