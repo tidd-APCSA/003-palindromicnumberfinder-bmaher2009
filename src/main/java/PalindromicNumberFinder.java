@@ -13,7 +13,7 @@ public class PalindromicNumberFinder {
 
     //this method should find the next palindromic number
     public int searchForPalindromicNum(int num){
-     
+     int ogNum = num;
       
     
         
@@ -27,8 +27,8 @@ public class PalindromicNumberFinder {
           }
           
           }
-          System.out.println(nextPalindrome);
-          return nextPalindrome;
+          System.out.println(nextPalindrome-ogNum);
+          return nextPalindrome-ogNum;
         
         
         }
