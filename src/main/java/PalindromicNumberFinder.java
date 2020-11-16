@@ -27,7 +27,7 @@ public class PalindromicNumberFinder {
           }
           
           }
-          System.out.println(nextPalindrome-ogNum);
+          (nextPalindrome-ogNum);
           return nextPalindrome-ogNum;
         
         
